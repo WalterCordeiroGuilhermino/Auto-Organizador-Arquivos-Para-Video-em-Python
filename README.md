@@ -1,7 +1,6 @@
 
 
 # Auto Organizador de Arquivos para Vídeos
-Organizar e manter organizado arquivos utilizados na criação de vídeos.
 
 Este é um script em Python que organiza automaticamente arquivos de vídeo, áudio e imagens em pastas personalizadas. Ele é útil para editores de vídeo que desejam manter seus arquivos fonte organizados.
 
